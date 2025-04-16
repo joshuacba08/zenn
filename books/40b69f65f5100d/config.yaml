@@ -1,0 +1,13 @@
+title: "Maestro del tiempo con JavaScript" # Título del libro
+summary: "" # Resumen del libro
+topics:
+  - programación
+  - desarrollo
+  - tutoriales
+published: true # Cambiar a true para publicar
+price: 0 # Precio entre 200 y 5000 si es de pago
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - introduccion
+  - fundamentos
+  - conclusiones
