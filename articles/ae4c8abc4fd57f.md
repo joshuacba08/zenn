@@ -174,6 +174,6 @@ Si has llegado hasta acá, antes que nada quiero agradecerte por dedicarme tu ti
 
 - Aceptar que el estado puede estar en incertidumbre —que no es inmediato, que puede estar desfasado, que otros efectos lo afectan— te permite salir del ciclo de frustración y pasar al modo detective.
 
-#### Consejo final
+### Consejo final
 
 La incertidumbre no siempre es un bug. A veces es una señal de que hay una desincronización entre tu lógica y el ciclo de vida de React.
