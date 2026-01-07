@@ -1,7 +1,7 @@
 ---
 title: "Qué es el principio de incertidumbre de un estado en React"
 emoji: "🤔"
-type: "tech, idea"
+type: "tech"
 topics: ["react", "javascript", "frontend"]
 description: "Cuando un componente React se comporta de manera aleatoria ante cambios de estado, estamos frente a un estado en incertidumbre."
 published: true
